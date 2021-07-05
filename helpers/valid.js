@@ -14,11 +14,4 @@ name: yup
 	// .matches(/(idea|random|task)/)
 });
 
-// const editNoteSchema = yup.object().shape({
-// 	name: yup
-// 		.string(),
-// 		content: yup
-// 		.string(),
-// 		archived: yup.boolean()
-// 	});
 
